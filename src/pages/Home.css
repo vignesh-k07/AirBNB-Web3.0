@@ -41,9 +41,9 @@
 }
 
 .searchFields {
-  width:800px;
+  width:900px;
   background-color: white;
-  height:65px;
+  height:95px;
   border-radius: 100px;
   display: flex;
   justify-content: space-evenly;
